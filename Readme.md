@@ -1,1 +1,1 @@
-This is a portfolio of some of my projects, it includes Jupyter/Colab notebooks
+This is my portfolio of projects involving machine learning and data analysis
